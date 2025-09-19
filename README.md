@@ -22,7 +22,7 @@ Herramienta avanzada para extracción de datos web con interfaz interactiva en e
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/mega-web-scraper.git
+git clone https://github.com/Alvaro-Manzo/SCRAPPER_PRO.git
 cd mega-web-scraper
 
 # Instalar dependencias
@@ -275,8 +275,7 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 ## ⭐ Créditos
 
-- Desarrollado con ❤️ para la comunidad hispana
-- Inspirado en herramientas como Scrapy y BeautifulSoup
+- Desarrollado con ❤️
 - Contribuciones bienvenidas
 
 ## 📞 Soporte
